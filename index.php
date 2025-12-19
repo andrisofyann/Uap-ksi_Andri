@@ -1,4 +1,4 @@
 <?php
 echo "ini uap";
-echo "halllo";
+echo "hallo";
 ?>
